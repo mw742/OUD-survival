@@ -57,7 +57,7 @@ The **All of Us Research Program** data are **controlled-access**. To use these 
 If you use these scripts or ideas in your own work, please cite:
 
 > **Integrating Survival Models and a Therapy Knowledge Graph to Characterize Onset, Remission, and Relapse in Opioid Use Disorder**  
-> *Mengman Wei\*, Stanislav Listopad, and Qian Peng\*
+> Mengman Wei\*, Stanislav Listopad, and Qian Peng\*
 
 You may also cite this repository directly (e.g., as a software / code resource) with its GitHub URL and commit/tag.
 
