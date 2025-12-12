@@ -26,7 +26,7 @@ This repo focuses on the **methodological side**: how to
 
 > **Note:** Adjust file paths/names below to match your actual repo structure.
 
-- `prepare_intervals.R`  
+- `prepare_intervals.py`  
   Example R script showing how to:
   - Read visit-level and condition/exposure tables  
   - Define OUD onset/remission/relapse events  
