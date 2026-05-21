@@ -11,7 +11,6 @@ The scripts are designed for use on the **All of Us Researcher Workbench**. Beca
 Our project:
 
 > **A Joint Survival Modeling and Therapy Knowledge Graph Framework to Characterize Opioid Use Disorder Trajectories**  
-> *Mengman Wei\*, Stanislav Listopad, and Qian Peng\**
 
 We use interval-based survival models to study OUD onset, remission, and relapse, and integrate the results with a therapy knowledge graph for drug repurposing and treatment characterization.
 
@@ -56,7 +55,7 @@ The **All of Us Research Program** data are **controlled-access**. To use these 
 
 If you use these scripts or ideas in your work, please cite:
 
->Mengman Wei*, Stanislav Listopad, Qian Peng*.
+>Mengman Wei*, Qian Peng*.
 >A Joint Survival Modeling and Therapy Knowledge Graph Framework to Characterize Opioid Use Disorder Trajectories.
 arXiv:2601.13407. https://arxiv.org/abs/2601.13407
 
